@@ -15,5 +15,10 @@
   ],
   "icons": {
     "128": "showdowncancelicon.png"
+  },
+  "browser_specific_settings": {
+    "gecko": {
+      "id": "chris.dentremont@outlook.com"
+    }
   }
 }
